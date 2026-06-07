@@ -1,0 +1,8 @@
+.env
+*.env
+__pycache__/
+*.pyc
+logs/
+*.log
+private/
+api_keys.txt
